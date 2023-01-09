@@ -1,0 +1,29 @@
+print("hola chaval XD");
+print( 100 + 50 + 100);
+print( 'Estudiar con "Python Total" es super divertido' );
+print( 555 );
+print('hola', '', 'alexander');
+print("esta es una linea\nesta es otra linea");
+print("\t esta linea tiene una tabulacion a la izquierda");
+print('this isn\'t a number');
+print('\\ esta es una barra invertida y sera muy util en los print de python \\');
+
+# https://www.udemy.com/course/python-total/learn/lecture/27597836#questions/18582654
+
+print('Línea 1\nLínea 2\nLínea 3');
+
+print('A\tB\tC\nD\tE\tF\nG\tH\tI');
+
+print('Barra Normal: /\nBarra Invertida: \\');
+
+print("Tu nombre es ", input('Escribe tu nombre: '));
+print("Tu apellido es ", input('Escribe tu apellido: '));
+
+# primero tiene en cuenta los input y luego los print
+print("tu nom es ", input('escribe tu nom: '), 'y', "tu apell es ", input('escribe tu apell: '));
+# https://www.udemy.com/course/python-total/learn/lecture/27615846#questions
+
+print(input("¿Qué estás estudiando?"));
+print(input("¿En qué país vives?"));
+
+print(input("Escribe tu nombre:"), input("Escribe tu apellido:"));

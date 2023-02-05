@@ -6,6 +6,8 @@ Esta carpeta contiene varios proyectos en python destacando:
 * juego del ahorcado
 * recetario que crea carpetas y archivos txt
 * cuenta bancaria - multiples soluciones
+* Turnero
+* Buscador de Patrones Numericos en carpetas, sub carpetas y archivos txt
 
 Todos los programas se corren en consola
 ```

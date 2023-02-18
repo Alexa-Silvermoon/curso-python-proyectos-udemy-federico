@@ -1,0 +1,32 @@
+
+OTRA MANERA SENCILLA DE HACERLO
+1 voto
+Jesua Fernando · Clase 150 · hace 6 días
+Hola a todos, sin intencion de desmerecer el trabajo de mi querido profe Fede, sino al contrario, de compartir conocimiento, les comparto una manera que he utilizado para compartir mis juegos 
+y aplicaciones con otras personas, y es utilizando la libreria auto-py-to-exe
+
+Una vez instalada se abre directamente en la consola de comandos de windows escribiendo "auto-py-to-exe" (sin comillas) y se abrira esa ventana.
+
+
+https://pypi.org/project/auto-py-to-exe/
+pip install auto-py-to-exe
+
+
+-Se elige el script (archivo .py que queremos compartir)
+
+-Se debe elegir siempre la opcion de One directory, la de One file nunca me ha funcionado.
+
+-La de console based la dejan seleccionada
+
+-Podemos cargar un icono, en formato .ico
+
+-En Additional files elegimos "Add Folder" para ir elegiendo todas las subcarpetas (si existen) y la de "Add Files" para agregar todos los demas archivos que no sean carpetas.
+En este paso, añadimos todos los archivos necesarios que necesita nuestro programa, excepto el favicon y el archivo main, ya que fueron usados en los pasos de arriba
+
+-No tocamos nada mas (aunque pueden experimentar si quieren pero con todo esto basta)
+
+-Le dan al boton azul de abajo "convert .py to .exe"
+
+Eso es todo gente, una vez que termine, les apareceran dos botones abajo, eligen el de la derecha que dice "Open output folder" 
+que los llevara directamente a la carpeta de su sistema donde se ha creado una carpeta con el nombre de su app, y contiene todo lo necesario para abrir su programa, 
+para abrirlo solo buscan el archivo .exe y listo!

@@ -8,9 +8,12 @@ Esta carpeta contiene varios proyectos en python destacando:
 * cuenta bancaria - multiples soluciones
 * Turnero
 * Buscador de Patrones Numericos en carpetas, sub carpetas y archivos txt
-* Juego Invasion Espacial y su archivo exe
+* Juego Invasion Espacial y su archivo exe (pygame), incluye ejecutable exe
+* Extractor de archivos Web Scraping
+* Sistema de facturacion de un restaurante, calcular, generar recibo, guardar recibo, calculadora, incluye ejecutable exe
 
-Todos los programas se corren en consola
+
+Casi todos los programas se corren en consola
 ```
 print()
 ```
